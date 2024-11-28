@@ -5,3 +5,4 @@ Desenvolvedor Web FullStack
 
 https://www.linkedin.com/in/felipe-peixoto-18016110b/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepeixototrybe35)](https://github.com/anuraghazra/github-readme-stats)
