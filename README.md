@@ -3,6 +3,7 @@
 <p>Também sou fã de esportes, competi profissionalmente em natação, judô e futebol de campo mas sempre pratiquei outros como atletismo (corrida e salto em distância), tênis, volei e o preferido de todos: o surf.</p>
 <p>Gosto de desafios, sou movido por eles, me superar a cada dia. Migrar da mecânica para a programação foi um desses desafios que começou como um hobbie em 2021 mas só pegou força com o início do curso na Trybe em 2023.</p>
 
+<p>
 <a href="mailto:fepeiuerj@gmail.com" style="display: inline-block;">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -10,8 +11,7 @@
 <a href="https://www.linkedin.com/in/felipe-peixoto-18016110b/" style="display: inline-block;">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-  
+</p>
 <table>
   <thead>
     <tr>
