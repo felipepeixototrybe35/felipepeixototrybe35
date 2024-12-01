@@ -1,7 +1,8 @@
-<p>Olá, meu nome é Felipe Peixoto Pinheiro, sou Desenvolvedor Web FullStack (Trybe-2024) e Engenheiro Mecânico (UERJ-2016)<p />
+<h1>Olá, meu nome é Felipe Peixoto Pinheiro,</h1>
+<h2>sou Desenvolvedor Web FullStack (Trybe-2024) e Engenheiro Mecânico (UERJ-2016)</h2>
 <p>Sempre gostei de aprender e realizar muitas atividades diversas, então além das formações acima eu também já fui militar (Sargento do Exército) e pára-quedista do Exército Brasileiro.<p />
 <p>Também sou fã de esportes, competi profissionalmente em natação, judô e futebol de campo mas sempre pratiquei outros como atletismo (corrida e salto em distância), tênis, volei e o preferido de todos: o surf.</p>
-<p>Gosto de desafios, sou movido por eles, me superar a cada dia. Migrar da mecânica para a programação foi um desses desafios que começou como um hobbie em 2021 mas só pegou força com o início do curso na Trybe em 2023.</p>
+<p>Gosto de desafios, sou movido por eles, me superar a cada dia é a meta. Migrar da mecânica para a programação foi um desses desafios que começou como um hobbie em 2021 mas só ganhou força com o início do curso na Trybe em 2023.</p>
 
 <p>
 <a href="mailto:fepeiuerj@gmail.com" style="display: inline-block;">
